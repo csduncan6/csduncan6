@@ -21,5 +21,5 @@ I don't really make things open source but one of my goals for 2021 is to develo
 
 
 * [Twitter](https://twitter.com/WannaBeSkid)
-* [Discord](https://discord.com/users/806210720454148097)
+* [Discord](https://discord.com/users/780905552381214780)
 
