@@ -1,4 +1,4 @@
- # WannaBeSkid / Vi / CSDuncan 😳
+ # / Vi / CSDuncan 😳
 
 
 ![Vi Github Stats](https://github-readme-stats.vercel.app/api?username=WannaBeSkid&theme=dracula&show_icons=true)
