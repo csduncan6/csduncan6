@@ -1,7 +1,6 @@
- # 🏴‍☠️ Vi / CSDuncan 
+# 🏴‍☠️ vi / csduncan
 
-![csduncan6 Github Stats](https://github-readme-stats.vercel.app/api?username=praise2vi&theme=dracula&show_icons=true)
+![csduncan's github stats](https://github-readme-stats.vercel.app/api?username=praise2vi&theme=dracula&show_icons=true)
 
-
-![csduncan6 Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=praise2vi&layout=compact&show_icons=true&title_color=e5658f&icon_color=81ceeb&text_color=fff&bg_color=282a36)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praise2vi&theme=dracula&margin-w=15&margin-h=15&column=7)]()
 
